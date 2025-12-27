@@ -77,11 +77,16 @@
     <main>
         <section>
             <h2>About Us</h2>
-            <p>Add your content here about what CHCU stands for, its mission, history, or purpose.</p>
+            <p>One small step for man, one giant step for water delivery</p>
+            <p>For years, firefighters have had to go back to the threeway to stop waterflow or manage pressure. All the walking back and forth really adds up</p>
+            <p></p>
+
+
+            
         </section>
 
         <section>
-            <h2>Our Services</h2>
+            <h2>Our Technology</h2>
             <p>Describe the services, programs, or offerings provided by CHCU.</p>
         </section>
 
