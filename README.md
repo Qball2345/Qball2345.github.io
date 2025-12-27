@@ -77,9 +77,14 @@
     <main>
         <section>
             <h2>About Us</h2>
-            <p>One small step for man, one giant step for water delivery</p>
-            <p>For years, firefighters have had to go back to the threeway to stop waterflow or manage pressure. All the walking back and forth really adds up</p>
-            <p></p>
+            <p>"One small step for man, one giant step for water delivery."</p>
+            <p>For years, firefighters have had to go back to the threeway to stop waterflow or manage pressure. All the walking back and forth really adds up
+            and makes water delivery require more effort than necessary. to address this issue, the Central Hose Command Unit (CHCU) was create.
+            Now firefighters can control the flow of water remotley using their mobile device to control a linear actuator. The system uses a transmission protocol 
+            called LoRa that allows for water to be diverted from up to one kilometer away. 
+            
+            </p>
+            
 
 
             
