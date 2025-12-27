@@ -102,18 +102,24 @@
             <p>The CHCU provides two types of threeway flips, Full and Incremental</p>
             <h3>Full</h3>
             <p>The full threeway flips allow for complete stoppage of water flow so that firefighters can add on another length of hose. </p>
+            <video width="60%" controls autoplay muted loop playsinline>
+        <source src="ontario_full.mp4" type="video/mp4">
+        
+    </video>
             <h3>Incremental</h3>
             <p>As a means of managing pressure, the threeway can be opened a certain percentage to allow for pressure relief. </p>
         </section>
 
         <section>
             <h2>Pressure Readings</h2>
-            <p>Share upcoming events, announcements, or recent news.</p>
+            <p>The CHCU also sends pressure readings to the users mobile device every 2 seconds. this is helpful to quickly do some mental math about how many nozzles you can have open and 
+            monitor if a hose has blown a hole in it. </p>
         </section>
 
         <section>
             <h2>Data Capture</h2>
-            <p>Provide contact information, location, email, phone number, or a contact form.</p>
+            <p>To better understand water pressure and hose behaviour, pressure readings can be logged and save as an Excel file for further data analysis. Some of the experiments done 
+            can be found below. </p>
         </section>
     </main>
 
