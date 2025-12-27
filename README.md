@@ -88,7 +88,7 @@
             <p>For years, firefighters have had to go back to the threeway to stop waterflow or manage pressure. All the walking back and forth really adds up
             and makes water delivery require more effort than necessary. To address this issue, the Central Hose Command Unit (CHCU) was created.
             Now firefighters can control the flow of water remotley using their mobile device to engage a linear actuator. The system uses a transmission protocol 
-            called LoRa that allows for water to be diverted from up to one kilometer away. 
+            called LoRa that allows for water to be diverted from over 1 km away 
             
             </p>
             
