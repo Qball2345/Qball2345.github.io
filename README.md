@@ -47,6 +47,13 @@
             padding-bottom: 10px;
             font-size: 2rem;
         }
+
+        h3 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+            font-size: 1rem;
+        }
         footer {
             text-align: center;
             padding: 30px;
@@ -70,7 +77,7 @@
 <body>
 
     <header>
-        <h1>CHCU</h1>
+        <h1>Central Hose Command Unit</h1>
         <p>A Couple Months of Stoppable Flow </p>
     </header>
 
@@ -79,8 +86,8 @@
             <h2>About Us</h2>
             <p>"One small step for man, one giant step for water delivery."</p>
             <p>For years, firefighters have had to go back to the threeway to stop waterflow or manage pressure. All the walking back and forth really adds up
-            and makes water delivery require more effort than necessary. to address this issue, the Central Hose Command Unit (CHCU) was create.
-            Now firefighters can control the flow of water remotley using their mobile device to control a linear actuator. The system uses a transmission protocol 
+            and makes water delivery require more effort than necessary. to address this issue, the Central Hose Command Unit (CHCU) was created.
+            Now firefighters can control the flow of water remotley using their mobile device to engage a linear actuator. The system uses a transmission protocol 
             called LoRa that allows for water to be diverted from up to one kilometer away. 
             
             </p>
@@ -91,17 +98,21 @@
         </section>
 
         <section>
-            <h2>Our Technology</h2>
-            <p>Describe the services, programs, or offerings provided by CHCU.</p>
+            <h2>Water Diversion</h2>
+            <p>The CHCU provides two types of threeway flips, Full and Incremental</p>
+            <h3>Full</h3>
+            <p>The full threeway flips allow for complete stoppage of water flow so that firefighters can add on another length of hose. </p>
+            <h3>Incremental</h3>
+            <p>As a means of managing pressure, the threeway can be opened a certain percentage to allow for pressure relief. </p>
         </section>
 
         <section>
-            <h2>Events & News</h2>
+            <h2>Pressure Readings</h2>
             <p>Share upcoming events, announcements, or recent news.</p>
         </section>
 
         <section>
-            <h2>Contact</h2>
+            <h2>Data Capture</h2>
             <p>Provide contact information, location, email, phone number, or a contact form.</p>
         </section>
     </main>
