@@ -56,7 +56,7 @@
         }
         @media (max-width: 768px) {
             header h1 {
-                font-size: 3rem;
+                font-size: 10rem;
             }
             header p {
                 font-size: 1.2rem;
