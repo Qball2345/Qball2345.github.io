@@ -20,7 +20,7 @@
             padding: 100px 20px;
         }
         header h1 {
-            font-size: 4rem;
+            font-size: 10rem;
             margin: 0;
             letter-spacing: 0.1em;
         }
