@@ -71,7 +71,7 @@
 
     <header>
         <h1>CHCU</h1>
-        <p>Welcome to our community</p>
+        <p>A Couple Months of Stoppable Flow </p>
     </header>
 
     <main>
