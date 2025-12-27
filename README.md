@@ -86,7 +86,7 @@
             <h2>An Interesting Problem With a Unique Solution</h2>
             
             <p>For years, firefighters have had to go back to the threeway to stop waterflow or manage pressure. All the walking back and forth really adds up
-            and makes water delivery require more effort than necessary. to address this issue, the Central Hose Command Unit (CHCU) was created.
+            and makes water delivery require more effort than necessary. To address this issue, the Central Hose Command Unit (CHCU) was created.
             Now firefighters can control the flow of water remotley using their mobile device to engage a linear actuator. The system uses a transmission protocol 
             called LoRa that allows for water to be diverted from up to one kilometer away. 
             
@@ -151,8 +151,8 @@
 
         <section>
             <h2>Data Capture and Analysis</h2>
-            <p>To better understand water pressure and hose behaviour, pressure readings can be logged and save as an Excel file for further data analysis.One of the experiments done 
-    involved determining minimum and maximum workable pressure for a Hansen nozzle. Believe it or not but I am confident that this is the first time that data like this has ever been recorded. Analog pressure sensors exist but being able to capture this amount of data hasn't been done before. </p>
+            <p>To better understand water pressure and hose behaviour, pressure readings can be logged and save as an Excel file for further data analysis. One of the experiments done 
+    involved determining minimum and maximum workable pressure for a Hansen nozzle. Believe it or not but I am confident that this is the first time that data like this has ever been recorded. Analog pressure sensors exist and measurements have been taken, but being able to capture this amount of data hasn't been done before. </p>
     <div style="text-align: center; margin: 40px 0;">
     <img src="Pressure_vs_Time_graph.png"  style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
