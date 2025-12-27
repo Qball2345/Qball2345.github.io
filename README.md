@@ -103,7 +103,7 @@
             <h3>Full</h3>
             <p>The full threeway flips allow for complete stoppage of water flow so that firefighters can add on another length of hose. </p>
             <video width="800" controls style="max-width: 100%; height: auto; border-radius: 10px;">
-    <source src="ontario_full.mp4" type="mp4">
+    <source src="ontario_full.mp4" type="video/mp4">
     Your browser does not support the video tag.
         </video>
         
