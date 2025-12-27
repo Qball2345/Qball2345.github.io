@@ -100,8 +100,8 @@
         <section>
             <h2>Water Diversion</h2>
             <p>The CHCU provides two types of threeway flips, Full and Incremental</p>
-            <h3>Full</h3>
-            <p>The full threeway flips allow for complete stoppage of water flow so that firefighters can add on another length of hose. </p>
+            <h3>Ontario</h3>
+            <p>The Ontario threeway flips allow for complete stoppage of water flow so that firefighters can add on another length of hose. </p>
             <div style="max-width: 100%; margin: 40px auto; text-align: center;">
     <iframe 
         width="800" 
@@ -117,6 +117,17 @@
     
             <h3>Incremental</h3>
             <p>As a means of managing pressure, the threeway can be opened a certain percentage to allow for pressure relief. </p>
+              <div style="max-width: 100%; margin: 40px auto; text-align: center;">
+    <iframe 
+        width="800" 
+        height="450" 
+        src="https://www.youtube.com/embed/yZ1eOZ8rw7U"
+        
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+</div>
         </section>
 
         <section>
