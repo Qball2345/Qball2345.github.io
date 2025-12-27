@@ -106,7 +106,7 @@
     <iframe 
         width="800" 
         height="450" 
-        src="https://youtu.be/O6K0zqInA_I" 
+        src="https://www.youtube.com/embed/O6K0zqInA_I"
         
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
