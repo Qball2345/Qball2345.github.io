@@ -153,6 +153,9 @@
             <h2>Data Capture and Analysis</h2>
             <p>To better understand water pressure and hose behaviour, pressure readings can be logged and save as an Excel file for further data analysis.One of the experiments done 
     involved determining minimum and maximum workable pressure for a Hansen nozzle. Believe it or not but I am confident that this is the first time that data like this has ever been recorded. Analog pressure sensors exist but being able to capture this amount of data hasn't been done before. </p>
+    <div style="text-align: center; margin: 40px 0;">
+    <img src="Pressure_vs_Time_graph.png"  style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
         </section>
     </main>
 
