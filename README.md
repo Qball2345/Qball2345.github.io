@@ -144,6 +144,9 @@
             <h2>Pressure Readings</h2>
             <p>The CHCU also sends pressure readings to the users mobile device every 2 seconds. this is helpful to quickly do some mental math about how many nozzles you can have open and 
             monitor if a hose has blown a hole in it. </p>
+            <div style="text-align: center; margin: 40px 0;">
+    <img src="pressure_sensor.png"  style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
         </section>
 
         <section>
