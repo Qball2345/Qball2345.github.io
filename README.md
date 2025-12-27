@@ -83,7 +83,7 @@
 
     <main>
         <section>
-            <h2>One small step for man, one giant step for water delivery</h2>
+            <h2>An Interesting Problem With a Unique Solution</h2>
             
             <p>For years, firefighters have had to go back to the threeway to stop waterflow or manage pressure. All the walking back and forth really adds up
             and makes water delivery require more effort than necessary. to address this issue, the Central Hose Command Unit (CHCU) was created.
@@ -110,8 +110,8 @@
         <section>
             <h2>Water Diversion</h2>
             <p>The CHCU provides two types of threeway flips, Full and Incremental</p>
-            <h3>Ontario</h3>
-            <p>The Ontario threeway flips allow for complete stoppage of water flow so that firefighters can add on another length of hose. </p>
+            <h3>Full</h3>
+            <p>The Full threeway flips allow for complete stoppage of water flow so that firefighters can add on another length of hose. </p>
             <div style="max-width: 100%; margin: 40px auto; text-align: center;">
     <iframe 
         width="800" 
@@ -150,9 +150,9 @@
         </section>
 
         <section>
-            <h2>Data Capture</h2>
-            <p>To better understand water pressure and hose behaviour, pressure readings can be logged and save as an Excel file for further data analysis. Some of the experiments done 
-            can be found below. </p>
+            <h2>Data Capture and Analysis</h2>
+            <p>To better understand water pressure and hose behaviour, pressure readings can be logged and save as an Excel file for further data analysis.One of the experiments done 
+    involved determining minimum and maximum workable pressure for a Hansen nozzle. Believe it or not but I am confident that this is the first time that data like this has ever been recorded. Analog pressure sensors exist but being able to capture this amount of data hasn't been done before. </p>
         </section>
     </main>
 
