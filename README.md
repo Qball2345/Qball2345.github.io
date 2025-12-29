@@ -174,7 +174,7 @@
         <section>
             <h2>Data Capture and Analysis</h2>
             <p>To better understand water pressure and hose behaviour, pressure readings can be logged and saved as an Excel file for further data analysis. One of the experiments
-            involved determining minimum and maximum workable pressure for a Hansen nozzle. This may be the first time data like this has been recorded at this level of detail.</p>
+            involved determining minimum and maximum workable pressure for a Hansen nozzle. If the pressure is to high, the hose becomes to difficult to hold. If the pressure is to low, the duff layer cannot be properly pentrated and the fire cannot be extinguished. This may be the first time data like this has been recorded at this level of detail.</p>
             <div style="text-align: center; margin: 40px 0;">
                 <img src="Pressure_vs_Time_graph.png" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
             </div>
